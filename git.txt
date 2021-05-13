@@ -1,0 +1,5 @@
+to clone the folder from the git
+
+git clone https://github.com/vikkyongit/WebDev01.git
+
+
